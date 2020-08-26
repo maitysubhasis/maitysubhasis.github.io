@@ -21,7 +21,7 @@ module.exports = {
     // ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
-  dest: './dist',
+  dest: 'docs',
 
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
